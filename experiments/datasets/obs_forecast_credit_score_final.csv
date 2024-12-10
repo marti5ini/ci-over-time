@@ -1,0 +1,4 @@
+dataset,train_steps,n_simulations,forecast_prediction_steps,model,score,score_type,repetition
+german,100,1,1,TSMixer,0.050422776,mae,0
+german,100,1,10,TSMixer,0.2186823,mae,0
+german,100,1,20,TSMixer,0.40831953,mae,0
