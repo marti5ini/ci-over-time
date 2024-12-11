@@ -11,8 +11,8 @@ Our experiments on synthetic and real-world datasets show that the proposed fram
 
 Use the following Jupyter notebooks to reproduce the results presented in the paper:
 
-- **[Experiments on Synthetic Data](notebooks/synthetic_experiments.ipynb)**  
-- **[Experiments on Real-World Data](notebooks/real_world_experiments.ipynb)**  
+- **[Experiments on Additive Interventions](https://github.com/marti5ini/ci-over-time/blob/main/experiments/interventional_forecasting_additive.py)**  
+- **[Experiments on Forcing Interventions](https://github.com/marti5ini/ci-over-time/blob/main/experiments/interventional_forecasting_forcing.py)**  
 
 These notebooks showcase how to evaluate the causal effects of interventions over time using the provided datasets and models.
 
