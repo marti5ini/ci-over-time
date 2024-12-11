@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 # Citation
 
-If you use `our practical framework` in your research, please cite our paper:
+If you use `our causal VAR framework` in your research, please cite our paper:
 
 ```
 @inproceedings{
