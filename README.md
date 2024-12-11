@@ -49,11 +49,11 @@ If you use `our causal VAR framework` in your research, please cite our paper:
 
 ```
 @inproceedings{
-cinquini2024ciovertime,
+cinquini2025ciovertime,
 title={A Practical Approach to Causal Inference over Time},
 author={Cinquini, Martina, Beretta Isacco, Ruggieri, Salvatore and Valera, Isabel},
 booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
-year={2024},
+year={2025},
 url={https://openreview.net/forum?id=2EBCWWS0Me}
 }
 
