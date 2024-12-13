@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/marti5ini/ci-over-time/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the implementation of the work [A Practical Approach to Causal Inference over Time](https://openreview.net/pdf?id=2EBCWWS0Me), where we present a framework for estimating causal effects over time in dynamical systems. The proposed **causal VAR framework** allows us to perform causal inference over time from observational time series data.  
+This repository contains the implementation of the work [A Practical Approach to Causal Inference over Time](https://arxiv.org/abs/2410.10502), where we present a framework for estimating causal effects over time in dynamical systems. The proposed **causal VAR framework** allows us to perform causal inference over time from observational time series data.  
 Our experiments on synthetic and real-world datasets show that the proposed framework achieves strong performance in terms of observational forecasting while enabling accurate estimation of the causal effect of interventions on dynamical systems. 
 
 ---
